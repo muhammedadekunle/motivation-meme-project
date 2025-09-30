@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  color: white;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#motivation-img {
+  width: 100%;
+  border: 5px solid white;
+}
+
+#main-text {
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+  font-size: 3rem;
+}
+
+#quote {
+  font-family: "Roboto", sans-serif;
+}
